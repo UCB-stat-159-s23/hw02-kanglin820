@@ -70,7 +70,7 @@ data files with getsegs():
 >> seglist = getsegs(842657792, 842658792, 'H1', flag='DATA', filelist=None)
 
 """
-1
+
 import numpy as np
 import os
 import fnmatch
