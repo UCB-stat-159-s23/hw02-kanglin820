@@ -1,6 +1,6 @@
-# LOSC_Event_tutorial
+# hw02-kanglin820
 
-The home for this is https://www.gwosc.org/tutorials/
+hw02-kanglin820 created by GitHub Classroom
 
 description: This assignment, I take use the LIGO Gravitational Wave Detection Tutorial Notebook and companion files that are publicly available on Github. With those, you will structure this repository as a reproducible research package, with installable utilities separated into a small Python package, a conda Environment specification and a new Binder link.
 
